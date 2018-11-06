@@ -261,6 +261,12 @@ input:focus, textarea:focus {
   display: block;
 }
 
+#josepadron {
+  color: white;
+  text-decoration: none;
+  margin: 10px 10px 10px 0;
+}
+
 .contacto a {
   color: white;
   text-decoration: none;
